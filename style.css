@@ -15,6 +15,17 @@ h1 {
     color: white
 }
 
+h3 {
+    background-color: black;
+    box-shadow: 0 0 5px 5px black;
+    margin: 15px;
+    max-width: 100px;
+    border: 5px solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px;
+    color: white
+}
+
 ul {
     background-color: black;
     box-shadow: 0 0 5px 5px black;
@@ -24,4 +35,14 @@ ul {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
     border-radius: 15px;
+}
+
+p {
+    background-color: black;
+    box-shadow: 0 0 5px 5px black;
+    margin: 25px;
+    border: 5px solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    border-radius: 15px;  
 }
