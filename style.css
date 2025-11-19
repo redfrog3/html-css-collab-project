@@ -46,3 +46,8 @@ p {
     color: white;
     border-radius: 15px;  
 }
+
+img {
+    width: 500px;
+    padding-left: 400px;
+}
