@@ -1,7 +1,7 @@
 body {
     margin: 25px;
     background-image: url("bkg.jpg");
-    cursor: url("https://i.postimg.cc/RCHJxS2r/Screenshot-2025-11-17-10-21-06-PM.png");
+    cursor: url("cursor.png"), auto;
 }
 
 h1 { 
