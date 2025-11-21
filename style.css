@@ -52,5 +52,25 @@ img {
     max-width: 700px;
     box-shadow: 0 0 5px 5px black; 
     margin: 0 auto 1em auto;
-    display:block
+    display:block;
+}
+
+.gif1 {
+    width:100px
+}
+
+table {
+    background-color: black;
+    box-shadow: 0 0 5px 5px black;
+    border: 5px solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 auto 1em auto;
+    width: 50%;
+    margin-top: 10px;
+    border: 1px solid #999;
+    padding: 4px;
+    text-align: left;
 }
